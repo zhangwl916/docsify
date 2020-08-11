@@ -1,4 +1,3 @@
-------
 
  git rm -r --cached .
 
