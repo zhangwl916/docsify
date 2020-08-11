@@ -1,7 +1,8 @@
 
 * Linux
    * [rz和sz](./docs/linux/1rz和sz.md)
-
+* Git
+   * [gitignore不起作用](./docs/git/1gitignore不起作用)
   
 * Java
 
