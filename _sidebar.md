@@ -1,5 +1,7 @@
 
-* [备战面试](./docs/a-1备战面试.md)
+* Linux
+   * [rz和sz](./docs/linux/a-1常用命令.md)
+
   
 * Java
 
