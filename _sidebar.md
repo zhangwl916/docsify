@@ -1,6 +1,6 @@
 
 * Linux
-   * [rz和sz](./docs/linux/a-1常用命令.md)
+   * [rz和sz](./docs/linux/1rz和sz.md)
 
   
 * Java
